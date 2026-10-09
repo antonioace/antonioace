@@ -53,14 +53,7 @@ Me interesa diseñar software **mantenible y escalable**, mejorar procesos reale
 
 **Otras áreas:** Python · Go · Integraciones con IA · Arquitectura basada en dominios · Metodologías ágiles.
 
-## 🚀 Experiencia e impacto
 
-| Empresa | Rol | Contribuciones destacadas |
-| --- | --- | --- |
-| **PROA PROPTECH SL** · 2025–actualidad | Full Stack Developer | Dashboards de gestión, integración de IA y mejoras en NestJS; **80 % menos tiempo** en procesos de gestión documental masiva. |
-| **Kruger Corp** · 2025 | Full Stack Developer | Desarrollo de **microfrontends** e integración de APIs REST para una plataforma del sector público. |
-| **Tecclas, Inc.** · 2022–2025 | Frontend Developer | CMS modular, automatización que redujo **60 %** de carga operativa manual y librería de componentes que disminuyó **40 %** los tiempos de entrega de funcionalidades. |
-| **Kumo Soft** · 2022 | Frontend Developer | Interfaces de e-learning, dashboards operativos y acompañamiento al equipo en la adopción de **Angular**. |
 
 ## 🌐 Proyectos
 
